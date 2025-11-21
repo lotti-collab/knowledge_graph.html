@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.html
+
+graph1.ipynb
+
+.env
+graph1.ipynb
+*.ipynb_checkpoints/
